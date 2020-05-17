@@ -1,0 +1,7 @@
+Cài win bằng ở cứng
+B1: Nhấn giữ shift và restart
+B2: Chọn Trobleshoot
+B3: Chọn Commandport
+
+Lệnh kiểm tra ổ cứng: wmic logicaldisk get size,cation
+Truyền đường dẫn để file cài win ví dụ: D:\CaiWin\Win10\setup

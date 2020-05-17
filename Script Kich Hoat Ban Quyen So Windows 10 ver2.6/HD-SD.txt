@@ -1,0 +1,84 @@
+﻿Script CMD kích hoạt giấy phép kỹ thuật số W10
+Tất cả các tập tin là sạch 100% khi kiểm tra bằng virustotal.
+
+=================================================================================
+W10 Digital License Activation Script.cmd
+Kích hoạt Windows 10 vĩnh viễn với giấy phép kỹ thuật số.
+
+=================================================================================
+Ghi chú-
+Script CMD này không cài đặt bất kỳ tệp nào trong hệ thống của bạn.
+
+WindowsUpdate phải được bật tại thời điểm kích hoạt.
+
+Cần có kết nối Internet để có thể kích hoạt.
+
+Sử dụng VPN, và privacy, công cụ chống gián điệp, privacy-based 
+hosts và quy tắc của tường lửa có thể gây ra sự cố kích hoạt.
+
+Sau khi kích hoạt, Trên cùng phần cứng, nếu bạn cài đặt lại
+windows 10 edition hệ thống sẽ tự động kích hoạt nhưng
+Điều này chỉ áp dụng cho phiên bản Retail của Windows 10.
+
+Nếu bạn đang sử dụng phiên bản VL của Windows 10 thì
+Bạn sẽ phải chèn key VL theo đúng phiên bản.
+Sau đó hệ thống sẽ tự động kích hoạt. Bạn có thể chèn key theo cách thủ công
+hoặc bạn có thể sử dụng mục [3] Lựa chọn khác:
+[1] Chèn khóa key mặc định.
+Điều này giúp bạn tiết kiệm thời gian trách phải kích hoạt lại.
+
+=================================================================================
+[2] Xóa key mặc định.
+
+Nếu hệ thống của bạn đã được kích hoạt vĩnh viễn, trong trường hợp này việc
+Kích hoạt sẽ bỏ qua. Nhưng nếu bạn quan tâm hoặc đơn giản là muốn thử
+Kiểm tra cách kích hoạt của Script này thì bạn có thể sử dụng tùy chọn này.
+Nó sẽ đưa hệ thống vào trạng thái không có giấy phép và sau đó, bạn có thể
+Kiểm tra quá trình kích hoạt.
+
+=================================================================================
+Để tạo iso Windows 10 kích hoạt tự động:
+
+Sử dụng phần mềm PowerISO để mở file windows 10 ISO.
+Bây giờ hãy sao chép thư mục $OEM$ từ đây và dán vào thư mục sources của ISO.
+Đường dẫn của thư mục sẽ có dạng:
+iso:\sources\$OEM$\ 
+Bây giờ hãy nhấp vào tùy chọn save as, trong PowerISO.
+
+=================================================================================
+Một số người bán có thể sử dụng loại trình kích hoạt này và bán bản sao dưới dạng
+Chính hãng. Đừng là nạn nhân của những trò gian lận như vậy bằng cách
+Luôn lấy Windows ISO từ trang chính thức của Microsoft và mua
+Chìa khóa từ một nguồn đáng tin cậy và hợp pháp.
+
+=================================================================================
+Các phiên bản Windows 10 được hỗ trợ
+
+Core (Home)
+Core (Home) (N)
+CoreSingleLanguage 
+CoreSingleLanguage (N)
+Professional
+Professional (N)
+ProfessionalEducation
+ProfessionalEducation (N)
+ProfessionalWorkstation
+ProfessionalWorkstation (N)
+Education
+Education (N)
+Enterprise
+Enterprise (N)
+EnterpriseS (LTSB) 
+EnterpriseS (LTSB) (N)
+
+(Trình kích hoạt này không kích hoạt Windows 10 version 1507)
+
+=================================================================================
+Tác giả:
+
+s1ave77 - Giấy phép kỹ thuật số Phương pháp kích hoạt Tác giả gốc
+mephistooo2 - Đóng gói lại phiên bản cmd của s1ave77
+WindowsAddict - Tạo phiên bản Reprap của mephistooo2 sạch sẽ và cải tiến thêm
+Savio - "ăn cắp" và "dịch bậy" :)
+
+=================================================================================
